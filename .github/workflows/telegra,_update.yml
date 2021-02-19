@@ -3,7 +3,7 @@ name: Github Beta commit to telegram
 on:
   push:
     branches:
-      - beta
+      - main
 
 jobs:
   build:
