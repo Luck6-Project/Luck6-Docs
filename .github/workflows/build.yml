@@ -15,8 +15,8 @@ jobs:
     - name: 'Building...'
       uses: reuixiy/hugo-deploy@v1
       env:
-        DEPLOY_REPO: Luck6-Project/Luck6-Docs
-        DEPLOY_BRANCH: output
+        DEPLOY_REPO: Luck6-DOCS/Luck6-DOCS.github.io
+        DEPLOY_BRANCH: main
         DEPLOY_KEY: ${{ secrets.DEPLOY_KEY }}
         # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
         TZ: Asia/Shanghai
