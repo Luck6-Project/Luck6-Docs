@@ -13,6 +13,8 @@ push_content['chat_id'] = '-1001341765556'
 time.sleep(1)
 try:
     main_req = get(url, data=push_content)
+except:
+    pass
 
 push_content = {'chat_id': '-1001334021647', 'disable_web_page_preview': 'True' ,'parse_mode': 'markdown',
                 'text': text}
