@@ -1,0 +1,4 @@
+baseURL = "https://docs.luck6.net/"
+languageCode = "zh-cn"
+title = "Luck6-DOCS"
+theme = "book"
