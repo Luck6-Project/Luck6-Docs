@@ -1,2 +1,2 @@
 # Luck6-DOCS
-# Welcome
+# Welcome!
