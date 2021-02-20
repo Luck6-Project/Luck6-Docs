@@ -51,6 +51,9 @@ headless: true
       - [Luck6-M]({{< relref "/detail/luck6-single/channels/captcha.md" >}})
       - [Luck6-UPDATE]({{< relref "/detail/luck6-single/channels/captcha.md" >}})
       - [Luck6-CRITICAL]({{< relref "/detail/luck6-single/channels/captcha.md" >}})
+      - [Luck6-CAPTCHA]({{< relref "/detail/luck6-single/groups/captcha.md" >}})
+      - [Luck6-CAPTCHA]({{< relref "/detail/luck6-single/groups/captcha.md" >}})
+      - [Luck6-CAPTCHA]({{< relref "/detail/luck6-single/groups/captcha.md" >}})
   - [Luck6-AIO]({{< relref "/docs/shortcodes/columns" >}})
   - [其他Bot]({{< relref "/docs/shortcodes/expand" >}})
 <br />
