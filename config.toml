@@ -1,4 +1,22 @@
-baseURL = "https://docs.luck6.net/"
-languageCode = "zh-cn"
-title = "Luck6-DOCS"
+baseURL = "https://docs.luck6.net"
+languageCode = "zh"
+title = "Luck6-Docs"
 theme = "book"
+disablePathToLower = true
+enableGitInfo = true
+[markup]
+[markup.goldmark.renderer]
+  unsafe = true
+[markup.tableOfContents]
+  startLevel = 1
+[menu]
+[[menu.after]]
+  name = "主站"
+  url = "https://Luck6.net"
+  weight = 10
+[params]
+  BookSection = '*'
+  BookRepo = 'https://github.com/Luck6-Project/Luck6-Docs'
+  BookEditPath = 'edit/main/content'
+  BookDateFormat = 'January 2, 2006'
+  BookComments = false
