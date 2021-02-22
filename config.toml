@@ -4,7 +4,19 @@ title = "Luck6-Docs"
 theme = "book"
 disablePathToLower = true
 enableGitInfo = true
-BookMenuBundle = '/menu'
+
+[languages]
+
+[languages.zh]
+  languageName = 'Chinese'
+  contentDir = 'content'
+  weight = 3
+
+[languages.en]
+  languageName = 'English'
+  contentDir = 'content.en'
+  weight = 1
+
 [markup]
 [markup.goldmark.renderer]
   unsafe = true
@@ -21,3 +33,4 @@ BookMenuBundle = '/menu'
   BookEditPath = 'edit/main/content'
   BookDateFormat = 'January 2, 2006'
   BookComments = false
+  BookMenuBundle = '/menu'
