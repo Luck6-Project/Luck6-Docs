@@ -68,5 +68,6 @@ headless: true
       - [Luck6-AIO-MANAGE]({{< relref "/detail/luck6-aio/bots/manage.md" >}})
       - [Luck6-AIO-REGEX]({{< relref "/detail/luck6-aio/bots/regex.md" >}})
       - [Luck6-AIO-USER]({{< relref "/detail/luck6-aio/bots/user.md" >}})
+      - [Luck6-AIO-TICKET]({{< relref "/detail/luck6-aio/bots/ticket.md" >}})
   - [其他Bot]({{< relref "/docs/shortcodes/expand" >}})
 <br />
