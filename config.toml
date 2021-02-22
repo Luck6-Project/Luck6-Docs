@@ -4,6 +4,7 @@ title = "Luck6-Docs"
 theme = "book"
 disablePathToLower = true
 enableGitInfo = true
+BookMenuBundle = '/menu'
 [markup]
 [markup.goldmark.renderer]
   unsafe = true

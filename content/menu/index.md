@@ -63,6 +63,10 @@ headless: true
       - [Luck6-WATCH]({{< relref "/detail/luck6-single/channels/watch.md" >}})
       - [Luck6-FEED]({{< relref "/detail/luck6-single/channels/feed.md" >}})
   - [Luck6-AIO]({{< relref "/detail/luck6-aio/index.md" >}})
-    - [BOTS]({{< relref "/docs/shortcodes/columns" >}})
+    - [BOTS]({{< relref "/detail/luck6-aio/bots/index.md" >}})
+      - [Luck6-AIO-BOT]({{< relref "/detail/luck6-aio/bots/aio.md" >}})
+      - [Luck6-AIO-MANAGE]({{< relref "/detail/luck6-aio/bots/manage.md" >}})
+      - [Luck6-AIO-REGEX]({{< relref "/detail/luck6-aio/bots/regex.md" >}})
+      - [Luck6-AIO-USER]({{< relref "/detail/luck6-aio/bots/user.md" >}})
   - [其他Bot]({{< relref "/docs/shortcodes/expand" >}})
 <br />
