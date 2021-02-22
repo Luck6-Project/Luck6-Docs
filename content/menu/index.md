@@ -69,5 +69,11 @@ headless: true
       - [Luck6-AIO-REGEX]({{< relref "/detail/luck6-aio/bots/regex.md" >}})
       - [Luck6-AIO-USER]({{< relref "/detail/luck6-aio/bots/user.md" >}})
       - [Luck6-AIO-TICKET]({{< relref "/detail/luck6-aio/bots/ticket.md" >}})
+     - [GROUPS]({{< relref "/detail/luck6-aio/groups/index.md" >}})
+      - [Luck6-AIO-MANAGE]({{< relref "/detail/luck6-aio/groups/manage.md" >}})
+      - [Luck6-AIO-REGEX]({{< relref "/detail/luck6-aio/groups/regex.md" >}})
+      - [Luck6-AIO-TICKET]({{< relref "/detail/luck6-aio/groups/ticket.md" >}})
+      - [Luck6-AIO-TEST]({{< relref "/detail/luck6-aio/groups/test.md" >}})
+      - [Luck6-AIO-CAPTCHA]({{< relref "/detail/luck6-aio/groups/captcha.md" >}})
   - [其他Bot]({{< relref "/docs/shortcodes/expand" >}})
 <br />
