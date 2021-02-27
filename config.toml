@@ -10,12 +10,12 @@ enableGitInfo = true
 [languages.zh]
   languageName = 'Chinese'
   contentDir = 'content'
-  weight = 3
+  weight = 1
 
 [languages.en]
   languageName = 'English'
   contentDir = 'content.en'
-  weight = 1
+  weight = 3
 
 [markup]
 [markup.goldmark.renderer]
@@ -28,9 +28,9 @@ enableGitInfo = true
   url = "https://Luck6.net"
   weight = 10
 [params]
-  BookSection = '*'
+  BookSection = 'basic'
   BookRepo = 'https://github.com/Luck6-Project/Luck6-Docs'
   BookEditPath = 'edit/main/content'
   BookDateFormat = 'January 2, 2006'
-  BookComments = false
-  BookMenuBundle = '/menu'
+  BookComments = true
+  BookSearch = true
