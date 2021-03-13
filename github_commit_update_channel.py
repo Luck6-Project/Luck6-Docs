@@ -15,4 +15,4 @@ try:
     main_req = get(url, data=push_content)
 except:
     pass
-print(main['sha'] + " ok！")
+print(main['sha'] + " done！")
